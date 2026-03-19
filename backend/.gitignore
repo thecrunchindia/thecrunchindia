@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+*.log
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Static / media
+media/
+staticfiles/
+
+# OS
+.DS_Store
+Thumbs.db
+
+category_images/
+menu_images/
+
+# Docs exports
+API_DOCS.pdf
+
+firebase-key.json
+firebase-key.json.json

@@ -1,0 +1,6 @@
+export {default as OrderTabs} from "./components/OrderTabs"
+export {default as Header} from "./components/Header"
+export {default as NewOrders} from "./components/NewOrders"
+export {default as PreparingOrders} from "./components/PreparingOrders"
+export {default as OnTheWayOrders} from "./components/OnTheWayOrders"
+export {default as HistoryOrders} from "./components/HistoryOrders"
